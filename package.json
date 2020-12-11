@@ -1,0 +1,27 @@
+{
+  "name": "fast-typer-server",
+  "version": "1.0.0",
+  "description": "back-end for fast typer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Crawblu/Fast-Typer-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Crawblu/Fast-Typer-server/issues"
+  },
+  "homepage": "https://github.com/Crawblu/Fast-Typer-server#readme",
+  "type": "module",
+  "dependencies": {
+    "eslint": "^7.15.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1",
+    "express": "^4.17.1"
+  }
+}
