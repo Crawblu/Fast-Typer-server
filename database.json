@@ -1,0 +1,22 @@
+{
+    "dev": {
+      "driver": "mysql",
+      "host": "localhost",
+      "user": "fastyper",
+      "password": "type"
+    },
+  
+    "test": {
+      "driver": "mysql",
+      "host": "localhost",
+      "user": "fastyper",
+      "password": "type"
+    },
+  
+    "prod": {
+      "driver": "mysql",
+      "host": "localhost",
+      "user": "fastyper",
+      "password": "type"
+    }
+  }
