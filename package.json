@@ -19,9 +19,15 @@
   "homepage": "https://github.com/Crawblu/Fast-Typer-server#readme",
   "type": "module",
   "dependencies": {
+    "db-migrate": "^0.11.12",
     "eslint": "^7.15.0",
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-plugin-import": "^2.22.1",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "socket.io": "^3.0.4"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.9",
+    "@types/ws": "^7.4.0"
   }
 }
